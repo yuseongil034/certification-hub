@@ -1,6 +1,6 @@
 # 📘 AI 학습 정리
 
-## 1. About GitHub, Markdown, Colab
+## 1. About GitHub, Markdown, Colab  
 - [GitHub 사용법](./docs/github.md)
 ### ✅ GitHub 계정 만드는 순서 (2025년 기준)
   1. 웹 브라우저 열기
