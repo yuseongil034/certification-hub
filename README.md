@@ -1,9 +1,10 @@
 # 📘 AI 학습 정리
 
-## 1. About GitHub, Markdown, Colab  
-- [GitHub 사용법](./docs/github.md)
-- - [Markdown 문법](./docs/markdown.md)
-- [Colab 기초](./docs/colab.md)
+## 1. About GitHub, Markdown, Colab
+- [GitHub 사용법](#github-사용법)
+- [Markdown 문법](#markdown-문법)  
+- [Colab 기초](#colab-기초)
+
 ## GitHub 사용법
 
 ### ✅ GitHub 계정 만드는 순서 (2025년 기준)
@@ -37,6 +38,11 @@
 4. **README.md 파일 생성 체크**
 5. **Create repository 버튼 클릭**
 
+## Markdown 문법
+(여기에 마크다운 내용 작성)
+
+## Colab 기초  
+(여기에 Colab 내용 작성)
 
 ## 2. About Python3
 - [Python basic](./docs/python3.md)
