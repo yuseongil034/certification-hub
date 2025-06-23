@@ -9,3 +9,6 @@
 ## 2. About Python3
 - [Python basic](./docs/python3.md)
 
+## 3.  data structure / data sciencs
+
+- [데이터 구조](./data_structures.md)
