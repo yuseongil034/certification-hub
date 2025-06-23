@@ -2,6 +2,18 @@
 
 ## 1. About GitHub, Markdown, Colab
 - [GitHub 사용법](./docs/github.md)
+### ✅ GitHub 계정 만드는 순서 (2025년 기준)
+  1. 웹 브라우저 열기
+크롬(Chrome), 엣지(Edge), 사파리(Safari) 중 편한 걸 사용하세요.
+
+
+2. GitHub 웹사이트 접속
+주소창에 아래 주소를 입력하고 Enter 누르세요:
+
+ https://github.com
+3. 회원가입 시작하기
+화면 오른쪽 위 또는 중간에 있는 Sign up 버튼 클릭
+
 - [Markdown 문법](./docs/markdown.md)
 - [Colab 기초](./docs/colab.md)
 ## 2. About Python3
