@@ -13,3 +13,5 @@
 
 - [데이터 구조 개요](./data_structures.md)
 - [Pandas](./pandas.md)
+- [Numpy](./numpy.md)
+- [Matplotlib](./Matplotlib.md)
