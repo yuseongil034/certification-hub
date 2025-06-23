@@ -1,5 +1,3 @@
-# git_test_markdown_sample
-
 # 📘 AI 학습 정리
 
 ## 1. About GitHub, Markdown, Colab
