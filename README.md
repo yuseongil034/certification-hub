@@ -7,5 +7,5 @@
 - [Markdown 문법](./docs/markdown.md)
 - [Colab 기초](./docs/colab.md)
 ## 2. About Python3
-- [Python 기초 문법](./docs/python3.md)
+- [Python basic](./docs/python3.md)
 
