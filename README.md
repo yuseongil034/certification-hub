@@ -11,4 +11,5 @@
 
 ## 3.  data structure / data sciencs
 
-- [데이터 구조](./data_structures.md)
+- [데이터 구조 개요](./data_structures.md)
+- [Pandas](./pandas.md)
